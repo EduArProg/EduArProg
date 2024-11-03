@@ -2,9 +2,9 @@
 <h3 align="center">Passionate about web development and updating myself every day on technological trends.</h3>
 
 
-- 🔭 I’m currently working on **System Inventory Online**
+- 🔭 I’m currently working on **System Factory Online**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Methodolys Agiles and Dev Web**
 
 - 📫 How to reach me **eduardoantoniosanchezbaez@gmail.com**
 <hr>
